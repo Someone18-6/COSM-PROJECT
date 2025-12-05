@@ -25,7 +25,8 @@ We performed:
 - Jupyter Notebook  
 - Pandas  
 - Matplotlib  
-- CSV datasets  
+- CSV datasets
+- Seaborn
 
 ## How to Run
 1. Download or clone the repository  
