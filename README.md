@@ -4,12 +4,12 @@ This repository contains the work completed as part of the COSM course.
 Our team of six worked together on data analysis, hypothesis testing, and regression models using Python and real datasets.
 
 ## Team Members
-- **Karanam Shashank** – Roll No: ________
-- **Member 2** – Roll No: ________
-- **Member 3** – Roll No: ________
-- **Member 4** – Roll No: ________
-- **Member 5** – Roll No: ________
-- **Member 6** – Roll No: ________
+- **Karanam Shasank** – Roll No: 24XV1M0520
+- **Akshaj Vulugundam** – Roll No: 24XV1M0557
+- **Saket Ram Pandari** – Roll No: 24XV1M0539
+- **Charan R** – Roll No: 24XV1M0538
+- **Karthik Adhiraju** – Roll No: 24XV1M0522
+- **Sudheesh Dubbaka** – Roll No: 24XV1M0547
 
 ## Overview
 The project focuses on understanding statistical methods and applying them on datasets.  
