@@ -27,6 +27,7 @@ We performed:
 - Matplotlib  
 - CSV datasets
 - Seaborn
+- statsmodel
 
 ## How to Run
 1. Download or clone the repository  
